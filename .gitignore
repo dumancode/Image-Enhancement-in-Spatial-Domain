@@ -1,0 +1,6 @@
+.DS_Store
+*.asv
+*_output.png
+threshold_binary_output.png
+median_filtered_output.png
+min_max_filtered_output.png
